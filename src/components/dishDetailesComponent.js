@@ -57,7 +57,7 @@ import {Card,CardBody,CardImg,CardImgOverlay,CardText,CardTitle,Media} from 'rea
                
             );
         }else{
-            return(<div>dd</div>);
+            return(<div></div>);
 }
     };
 
